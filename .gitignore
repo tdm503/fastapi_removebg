@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignore the isnet model file
+backend/models/DIS/isnet-general-use.pth
